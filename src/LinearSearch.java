@@ -18,3 +18,5 @@ public class LinearSearch {
         }
     }
 }
+
+// code by Ajay Shankar

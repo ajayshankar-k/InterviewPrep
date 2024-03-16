@@ -14,3 +14,5 @@ public class ReverseNumber {
        scan.close();
     }
 }
+
+//code by Ajay Shankar

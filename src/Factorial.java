@@ -15,3 +15,5 @@ public class Factorial {
         return a;
     }
 }
+
+//code by Ajay Shankar

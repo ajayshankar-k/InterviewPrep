@@ -26,3 +26,5 @@ public class PrimeNumber {
         return true;
     }
 }
+
+//code by Ajay Shankar

@@ -30,3 +30,5 @@ public class Vowels {
 
     }
 }
+
+//code by Ajay Shankar

@@ -12,3 +12,5 @@ public class SumOfNNumbers {
 
     }
 }
+
+//code by Ajay Shankar

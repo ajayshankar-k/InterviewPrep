@@ -25,3 +25,5 @@ public class AvgOfAGivenNumber {
 
     }
 }
+
+// code by Ajay Shankar

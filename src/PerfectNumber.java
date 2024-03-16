@@ -18,3 +18,5 @@ public class PerfectNumber {
         }
     }
 }
+
+//code by Ajay Shankar

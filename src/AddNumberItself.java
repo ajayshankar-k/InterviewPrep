@@ -17,3 +17,5 @@ public class AddNumberItself {
 
     }
 }
+
+// code by Ajay Shankar

@@ -18,3 +18,5 @@ public class Palindrome {
         scan.close();
     }
 }
+
+// code by Ajay Shankar
