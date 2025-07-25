@@ -5,12 +5,14 @@ public class ReverseNumber {
        System.out.println("Enter a number :");
        int num = scan.nextInt();
        int rev = 0;
-       while(num!=0){
-           int digit = num % 10;
+       int temp = num;
+       while(temp!=0){
+           int digit = temp % 10;
            rev = rev * 10 + digit;
-           num /= 10;
+           temp /= 10;
        }
        System.out.println(rev);
+       System.out.println(temp);
        scan.close();
     }
 }
